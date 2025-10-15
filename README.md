@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creando código (y algún warning) desde que descubrí mi pasión por la programación.<br>📚 Actualmente aprendiendo más sobre Java avanzado, bases de datos SQL, PHP y JavaScript avanzado. También tengo conocimientos sólidos en HTML y CSS, y sigo perfeccionando diseño de sistemas y patrones de arquitectura.<br>🎯 Metas: Convertirme en desarrollador backend experto y aportar soluciones innovadoras a proyectos reales. Seguir creciendo y aprendiendo en equipo.<br>🎲 Curiosidad: Siempre me gusta refactorizar el código hasta encontrar la forma más eficiente... ¡y me gusta escuchar música mientras estoy programando!</p>
+<p align="left">✨ Creando código (y algún warning) desde que descubrí mi pasión por la programación.<br>📚 Actualmente aprendiendo más sobre Java avanzado, bases de datos SQL, PHP y JavaScript avanzado. También tengo conocimientos sólidos en HTML y CSS, y sigo perfeccionando diseño de sistemas y patrones de arquitectura.<br>🎯 Metas: Convertirme en desarrollador Fullstack experto y aportar soluciones innovadoras a proyectos reales. Seguir creciendo y aprendiendo en equipo.<br>🎲 Curiosidad: Siempre me gusta refactorizar el código hasta encontrar la forma más eficiente... ¡y me gusta escuchar música mientras estoy programando!</p>
 
 ###
 
