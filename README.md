@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner-izan.png" alt="banner-izan" width="100%" height="600px" style="display: block; object-fit: cover;"/>
+  <img src="banner izan.png" alt="banner-izan" width="100%" height="600px" style="display: block; object-fit: cover;"/>
 </div>
 
 ###
