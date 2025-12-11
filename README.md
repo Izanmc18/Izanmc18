@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creando código (y algún warning) desde que descubrí mi pasión por la programación.<br>📚 Actualmente aprendiendo más sobre Java avanzado, bases de datos SQL, PHP y JavaScript avanzado. También tengo conocimientos sólidos en HTML y CSS, y sigo perfeccionando diseño de sistemas y patrones de arquitectura.<br>🎯 Metas: Convertirme en desarrollador Fullstack experto y aportar soluciones innovadoras a proyectos reales. Seguir creciendo y aprendiendo en equipo.<br>🎲 Curiosidad: Siempre me gusta refactorizar el código hasta encontrar la forma más eficiente... ¡y me gusta escuchar música mientras estoy programando!</p>
+<p align="left">✨ Creando código (y algún warning) desde que descubrí mi pasión por la programación.<br>📚 Actualmente aprendiendo más sobre Java avanzado, bases de datos SQL, PHP y JavaScript avanzado. También estoy aprendiendo Angular y Spring Boot. Tengo conocimientos sólidos en HTML y CSS, y sigo perfeccionando diseño de sistemas y patrones de arquitectura.<br>🎯 Metas: Convertirme en desarrollador Fullstack experto y aportar soluciones innovadoras a proyectos reales. Seguir creciendo y aprendiendo en equipo.<br>🎲 Curiosidad: Siempre me gusta refactorizar el código hasta encontrar la forma más eficiente... ¡y me gusta escuchar música mientras estoy programando!</p>
 
 ###
 
@@ -37,16 +37,19 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="angular logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
+
 </div>
 
-###
 
-<div align="left">
-  <h2> Mis Estadisticas </h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=Izanmc18&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=es&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Izanmc18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
 ###
 <h2> Un poquito de mis gustos musicales </h2>
