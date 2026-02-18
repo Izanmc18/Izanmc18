@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creando código (y algún warning) desde que descubrí mi pasión por la programación.<br>📚 Actualmente aprendiendo más sobre Nest.js avanzado También estoy aprendiendo . Tengo conocimientos sólidos en HTML y CSS, PHP, Angular y Spring Boot y sigo perfeccionando diseño de sistemas y patrones de arquitectura.<br>🎯 Metas: Convertirme en desarrollador Fullstack experto y aportar soluciones innovadoras a proyectos reales. Seguir creciendo y aprendiendo en equipo.<br>🎲 Curiosidad: Siempre me gusta refactorizar el código hasta encontrar la forma más eficiente... ¡y me gusta escuchar música mientras estoy programando!</p>
+<p align="left">✨ Creando código (y algún warning) desde que descubrí mi pasión por la programación.<br>📚 Actualmente aprendiendo más sobre Nest.js avanzado. Tengo conocimientos sólidos en HTML y CSS, PHP, Angular y Spring Boot y sigo perfeccionando diseño de sistemas y patrones de arquitectura.<br>🎯 Metas: Convertirme en desarrollador Fullstack experto y aportar soluciones innovadoras a proyectos reales. Seguir creciendo y aprendiendo en equipo.<br>🎲 Curiosidad: Siempre me gusta refactorizar el código hasta encontrar la forma más eficiente... ¡y me gusta escuchar música mientras estoy programando!</p>
 
 ###
 
