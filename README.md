@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Bienvenido a mi espacio en GitHub. Soy un apasionado de la programación y la tecnología, siempre en búsqueda de nuevos retos y aprendizajes. Desde hace años disfruto desarrollando proyectos en Java, perfeccionando la arquitectura backend y los patrones de diseño más usados por los profesionales. Me encanta trabajar con bases de datos SQL, diseñando sistemas robustos, ágiles y fáciles de mantener.<br><br>Además, tengo conocimientos en otros lenguajes y tecnologías como PHP, MySQL, HTML5, CSS3, JavaScript avanzado y Oracle. Aunque por ahora no tenga repositorios públicos con ejemplos de todos ellos, forman parte de mi día a día como programador y los uso para desarrollar soluciones completas y modernas.<br>Además de Java y SQL, controlo programación orientada a objetos, desarrollo web y metodologías de software. Mis proyectos suelen estar enfocados en la gestión de datos, automatización y simulaciones, ¡como mi último sistema de gestión de ligas de fútbol! 🚀<br><br>Aquí encontrarás trabajo limpio, comentado, funcional y siempre abierto a mejorar. Aprendo cada día más sobre patrones, algoritmos y buenas prácticas. Creo que la programación es tanto técnica como creatividad: me gusta crear código eficiente, comprensible y elegante.<br><br>¿Te interesa colaborar? ¿Tienes sugerencias? Me encantaría conectar con otros desarrolladores para compartir conocimientos y crear juntos.<br><br>¡Explora mis repositorios y siéntete libre de contactarme!</p>
+<p align="left">Bienvenido a mi espacio en GitHub. Soy un apasionado de la programación y la tecnología, siempre en búsqueda de nuevos retos y aprendizajes. Desde hace años disfruto desarrollando proyectos en Java, perfeccionando la arquitectura backend y los patrones de diseño más usados por los profesionales. Me encanta trabajar con bases de datos SQL, diseñando sistemas robustos, ágiles y fáciles de mantener.<br><br>Además, tengo conocimientos en otros lenguajes y tecnologías como PHP, MySQL, HTML5, CSS3, JavaScript avanzado y Oracle. Aunque por ahora no tenga repositorios públicos con ejemplos de todos ellos, forman parte de mi día a día como programador y los uso para desarrollar soluciones completas y modernas.<br>Además de Java y SQL, controlo programación orientada a objetos, desarrollo web y metodologías de software. Mis proyectos suelen estar enfocados en la gestión de datos, automatización y simulaciones, ¡como mi último sistema de gestión de CEMENTERIOS! 🚀<br><br>Aquí encontrarás trabajo limpio, comentado, funcional y siempre abierto a mejorar. Aprendo cada día más sobre patrones, algoritmos y buenas prácticas. Creo que la programación es tanto técnica como creatividad: me gusta crear código eficiente, comprensible y elegante.<br><br>¿Te interesa colaborar? ¿Tienes sugerencias? Me encantaría conectar con otros desarrolladores para compartir conocimientos y crear juntos.<br><br>¡Explora mis repositorios y siéntete libre de contactarme!</p>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creando código (y algún warning) desde que descubrí mi pasión por la programación.<br>📚 Actualmente aprendiendo más sobre Java avanzado, bases de datos SQL, PHP y JavaScript avanzado. También estoy aprendiendo Angular y Spring Boot. Tengo conocimientos sólidos en HTML y CSS, y sigo perfeccionando diseño de sistemas y patrones de arquitectura.<br>🎯 Metas: Convertirme en desarrollador Fullstack experto y aportar soluciones innovadoras a proyectos reales. Seguir creciendo y aprendiendo en equipo.<br>🎲 Curiosidad: Siempre me gusta refactorizar el código hasta encontrar la forma más eficiente... ¡y me gusta escuchar música mientras estoy programando!</p>
+<p align="left">✨ Creando código (y algún warning) desde que descubrí mi pasión por la programación.<br>📚 Actualmente aprendiendo más sobre Nest.js avanzado También estoy aprendiendo . Tengo conocimientos sólidos en HTML y CSS, PHP, Angular y Spring Boot y sigo perfeccionando diseño de sistemas y patrones de arquitectura.<br>🎯 Metas: Convertirme en desarrollador Fullstack experto y aportar soluciones innovadoras a proyectos reales. Seguir creciendo y aprendiendo en equipo.<br>🎲 Curiosidad: Siempre me gusta refactorizar el código hasta encontrar la forma más eficiente... ¡y me gusta escuchar música mientras estoy programando!</p>
 
 ###
 
@@ -46,7 +46,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
 </div>
 
 
